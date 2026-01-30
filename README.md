@@ -25,6 +25,8 @@ I appreciate that, though indirectly, some of my concerns were acknowledged in c
 
 **Tags:** #journal #week1
 
+---
+
 ### 🔗 The Connector
 **Definition:** Link this week's material to something bigger—your project, a previous concept, real-world examples, or your own experience.
 
@@ -52,3 +54,24 @@ I think this ties directly into the problem of reproducing research. In many cas
 ---
 
 **Tags:** #journal #week2
+
+---
+
+# Week 3: Tenacity and Public vs. Private
+
+**Date:** 1/29/2026
+**Phase:** Journalist 
+**Approach Used:** The Connector
+
+**
+
+**Of the ways of knowing detailed in this chapter, I find tenacity to be the least convincing. Yes, some things are just known, the earth being round, for example. If something is known to be true for long enough, even if it’s been proven right through empiricism, eventually it becomes common knowledge. When that common knowledge becomes unquestionable, you create contrarians. When you tell people not to question things “because that's the way it is”, they’re going to question anyway. At this point, they don’t find any evidence against their counterargument besides “that’s the way it is”, which isn’t very convincing. Even if there’s plenty of evidence against the Earth being flat, they’ve already made their mind up. 
+
+On the topic of the “public vs. private” problem of social media posts, I recall an instance where my Reddit account was quoted in an article without my consent. I didn’t really mind; it was just a comment about the new Fortnite update. If I were unknowingly included in an academic research paper as well, I probably wouldn’t care too much either, but I can see how one might find it odd or invasive. Common internet etiquette seems to be blurring whoever’s name out if you want to repost their comment somewhere else, and while I think that’s nice, posts on public social media are, in fact, public, and I think it’s good to keep that in mind, even if you don’t expect anyone to see. In my opinion, random internet comments should be fair game when looking for quotes or data for a research paper.**
+
+**
+
+
+---
+
+**Tags:** #journal #week3

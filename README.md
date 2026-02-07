@@ -75,3 +75,19 @@ On the topic of the “public vs. private” problem of social media posts, I re
 ---
 
 **Tags:** #journal #week3
+
+---
+
+# Week 4: Past Experience with Databases
+
+
+**Date:** 2/6/2026
+**Phase:** Journalist 
+**Approach Used:** The Connector
+
+**I’ve always had a pretty bad relationship with research databases. In the past, both my high school teachers and college professors had required a certain number of citations to be from peer-reviewed articles. For me, it always seemed like a waste of time, like the school was just trying to justify the money they spent to access these journals, and as such, made them a requirement. They were difficult to search, hard to access, and what little relevant info I found was always incredibly specific. A surface-level paper about guerrilla marketing doesn’t necessarily need to reference a paper on the effects of a toothpaste ad campaign to rural Mongolian youth. In all of those classes, they never taught us how to use these tools or why we would ever need them. I would always end up just quoting some vague sentence or definition explained in the first page or two of the article, and source the rest of my paper from news articles and YouTube videos. Just learning about Booleans made searching for relevant sources about 10 times easier. Before this, I’d just have to scroll until I found a paper that was actually relevant, and hope to god I could access it without paying. All that said, it makes sense why these databases would be valuable when you’re doing an original research paper. You need to see what other people have done. Not only will that give you something to build off of, but it also shows what’s already been explored.**
+
+
+---
+
+**Tags:** #journal #week4

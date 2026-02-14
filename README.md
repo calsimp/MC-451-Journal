@@ -91,3 +91,19 @@ On the topic of the “public vs. private” problem of social media posts, I re
 ---
 
 **Tags:** #journal #week4
+
+---
+
+# Week 5: 
+
+
+**Date:** 2/13/2026
+**Phase:** Journalist 
+**Approach Used:** The Troubleshooter
+
+**My problem is that I’m just now beginning to figure out what’s going on. As we discussed, turning theory into a hypothesis in the reading, and finding gaps to research. I’m afraid that’s become an incredibly daunting task in my mind. The last thing I’d want to do is download a bunch of research papers only to realize my topic sucks. Moreover, it’s incredibly hard to find a gap that hasn’t been explored, and I don’t understand how to do research for one that hasn’t, especially when looking for peer-reviewed articles. Right now, I’m looking to study the fall-off of the MCU and why audiences aren’t hyped for these films as much anymore. But there’s already plenty of theories as to why that is, and I’m not sure if I can add anything original. Furthermore, the idea that I’m expected to sit and look at research papers for 6 hours every week isn’t realistic for my schedule and life at all. I understand that it’s something I can do while watching TV or sitting in a waiting room, but I already have things to do then. I’ll spare you the “I have a life outside of this class” rant; I’m sure you’ve heard it all before. I’m not saying I’m not going to dedicate any time to this class. I’m taking this class a week at a time. I’m confident in my ability to pick things up and figure them out on my own, and I hope I will be able to do so with this class.**
+
+
+---
+
+**Tags:** #journal #week5

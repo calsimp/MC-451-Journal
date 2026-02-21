@@ -107,3 +107,19 @@ On the topic of the “public vs. private” problem of social media posts, I re
 ---
 
 **Tags:** #journal #week5
+
+---
+
+# Week 6: Fears of Forgetting
+
+
+
+**Date:** 2/20/2026
+**Phase:** Journalist 
+**Approach Used:** The Troubleshooter
+
+**I’ve always had trouble knowing how much I’m supposed to do with any given project. There have been times when I’ve gone way overboard and felt like I didn’t do enough, only to receive an excellent grade. Other times, I’ve been very confident in my work, I’ve felt like I went above and beyond, only to be sorely mistaken. Just last semester, in my web design class, I felt so confident in my final project, but when I went up to present, I realized I completely neglected to add one of the required pages. That’s my fear with this project, that I’ll do pretty well with everything else, but forget something important. These past few weeks, I’ve had many ideas floating around in my head.  The one I decided on, the one I’ve been doing all my assignments on thus far, has to do with superhero fatigue in media. It’s something that I feel has been discussed a lot, but I’m hoping I can bring a new angle to it. Looking at the chapter now, and seeing the project prospectus template, at 10:46 pm on Friday night, I realize I did not do enough. I included the three pillars discussed in the project on the blackboard, but not much else. No hypotheses or research questions. I will rectify this after it’s graded, as I don’t have the time or energy to do so right now, and remember to fully read the chapter before doing the assignments from now on.**
+
+---
+
+**Tags:** #journal #week6

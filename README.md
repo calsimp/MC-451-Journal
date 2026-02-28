@@ -123,3 +123,21 @@ On the topic of the “public vs. private” problem of social media posts, I re
 ---
 
 **Tags:** #journal #week6
+
+---
+
+# Week 6: We're getting there
+
+
+
+**Date:** 2/27/2026
+**Phase:** Journalist 
+**Approach Used:** The Troubleshooter
+
+**I wish I had known exactly how to formulate a research question from the start, because I would’ve had a lot more, and possibly better, ideas for my topic. I like the ones I’ve come up with, but actually knowing what to ask and what to look for has really allowed this to click, and now the gears are turning in my brain. I’ve really been looking at this class, and the work I’m doing, from an English class essay perspective, because that’s really the only type of “research” project I’ve ever known how to do before this class. For the past couple of weeks, I’ve been struggling with my topic. To be honest, I barely knew what I was going to do or how I was going to do it. However, by formulating my research questions this week, I feel I’ve gotten a lot closer, and turned something vaguely about “superhero fatigue” into something that is actually quantifiable. I was unsure of how I could code audience dissatisfaction, or where I could even look. So, instead, I will be looking for the presence and frequency of genre conventions in Marvel films over the years. I look for the frequency of cameos, quippy action scenes, and post-credit scenes that introduce new characters. I feel this will be much more doable. I’ll be looking to see if these conventions increase or decrease over time, and if that relationship has anything to do with box office performance. I hope this all works out, and right now I’m slightly more confident it will.**
+
+---
+
+**Tags:** #journal #week7
+
+---

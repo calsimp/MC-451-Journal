@@ -141,3 +141,26 @@ On the topic of the “public vs. private” problem of social media posts, I re
 **Tags:** #journal #week7
 
 ---
+
+### 🔗 The Connector
+**Definition:** Link this week's material to something bigger—your project, a previous concept, real-world examples, or your own experience.
+
+---
+
+# Week 4: Operational definitions
+
+
+**Date:** 3/6/2026
+**Phase:** Journalist 
+**Approach Used:** The Connector
+
+Many times, I’ve been asked to describe something, or define a word, or a concept, and been almost completely unable to. Like explaining the color blue. It’s hard to describe it as anything other than “blue” or “green without yellow” or “opposite of orange on the color wheel”. That’s what operational definitions feel like to me. It’s like instinctively knowing what blue is, but having to find a rigid, scientific, feasible way to detect when things are blue. Turning something intuitive into something measurable is much harder than it first seems.
+
+Earlier in the semester, I was playing around with a topic relating to what I was calling “male parasocial friend group” YouTubers and podcasters. Meaning anything where the main appeal is listening to a group of two to four guys joke around. Examples include Oneyplays, Supermega, Matt and Shane’s Secret Podcast, and The Adam Friedland Show. They could be playing games, they could just be talking. I ended up deciding against doing anything with this idea because it proved too difficult to define and quantify what counts as one of these channels. Maybe, after this week, I could be able to come up with something. Maybe I could count the number of times they bring up personal stories, the amount of times they address the audience, or the amount of inside-joke references. In any case, I’m happy with my current idea, but I wish I had understood the concept of operational definitions earlier. I feel it would’ve allowed me to have many more, and possibly better, ideas.
+
+
+---
+
+**Tags:** #journal #week8
+
+---

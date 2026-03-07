@@ -147,7 +147,7 @@ On the topic of the “public vs. private” problem of social media posts, I re
 
 ---
 
-# Week 4: Operational definitions
+# Week 8: Operational definitions
 
 
 **Date:** 3/6/2026

@@ -164,3 +164,23 @@ Earlier in the semester, I was playing around with a topic relating to what I wa
 **Tags:** #journal #week8
 
 ---
+
+# Week 9: Connecting data
+
+**This week, through both the reading and the in-class game, we focused on identifying and interpreting connections between different pieces of information. The idea of looking at patterns and drawing meaning from them reminded me of something I used to enjoy when I was younger: watching MatPat on YouTube. His content centered around developing theories about video games and films, often connecting seemingly unrelated details to form a larger narrative. While many of his ideas were exaggerated or unlikely, it was clear that they were built on careful observation and creative thinking. For example, one of his more outlandish theories suggested that Cars is actually a far-future sequel to A Bug’s Life, proposing that insect life evolved into car-like beings in a post-human world. On the surface, this sounds ridiculous, but he would compile visual clues, timelines, and environmental details to support his claims. Even if the conclusion wasn’t convincing, the process of gathering evidence and making connections was thoughtful and engaging. In a way, this mirrors what we are doing in class. We are examining data, identifying relationships, and considering what those relationships might imply. The activity we did in class emphasized how easy it can be to draw connections, but also how important it is to evaluate whether those connections are meaningful or coincidental. Overall, this week highlighted the balance between creativity and critical thinking. Making connections is a powerful tool, but it requires careful analysis to ensure that our interpretations are valid and supported by the data.**
+
+
+**Date:** 3/20/2026
+**Phase:** Journalist 
+**Approach Used:** The Connector
+
+
+
+
+---
+
+**Tags:** #journal #week9
+
+---
+
+

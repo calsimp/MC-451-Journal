@@ -184,3 +184,20 @@ Earlier in the semester, I was playing around with a topic relating to what I wa
 ---
 
 
+# Week 10: Retooling the project
+
+
+**Date:** 3/27/2026
+**Phase:** Journalist 
+**Approach Used:** The Troubleshooter
+
+**As of today, I am overhauling and retooling my research project. It’s partially frustrating, yet it’s a great relief as well. It all started while attempting to complete the pilot test. I realized what I was attempting to do was not feasible. I could not realistically watch and analyze 10 movies in that time frame. Furthermore, the MCU’s 37 movies are not nearly large enough of a data set. Had I continued with my current research questions, variables, etc., I would not have been able to consume every MCU film, and even if I had, I wouldn’t have had enough data to derive anything of value. So, I had to make a change, a change that I, and I hope my professor, are satisfied with.
+
+**Instead of just looking at MCU films, I will be looking at the top 10 movies by global box office numbers, and the relationship between these films and genre conventions commonly associated with the MCU, from the inception of the MCU with 2008’s Iron Man, until now. Many of my variables and definitions will still work, and likely remain mostly unchanged, such as coding for references to previous, in-universe continuity. I can even bring back post-credit scenes. Before, it was a redundant variable, as every MCU movie features one. Now, looking beyond just the MCU, the presence of a post-credit scene becomes one of the most important signifiers of the MCU’s influence. Others, like counting the number of quips during action scenes, will have to be changed. All of the information I am looking for should be readily available online, and I will be able to analyze far more movies without fully rewatching any of them, unless I want to.
+
+
+---
+
+**Tags:** #journal #week10
+
+---

@@ -201,3 +201,19 @@ Earlier in the semester, I was playing around with a topic relating to what I wa
 **Tags:** #journal #week10
 
 ---
+# Week 11: Previous Experience with R
+
+
+**Date:** 3/27/2026
+**Phase:** Journalist
+**Approach Used:** The Connector
+
+
+**This class is, in fact, not my first time working with R. Two years ago, at my previous school, the University of Southern Indiana in Evansville, I took a half-semester-long R Honors course. At the time, I was still undecided on my major, and took two computer science classes, the other being in Python, to test if it was something I enjoyed. I hated it. Everyone in my Python class had been coding for years, and the Professor taught with the understanding that you had at least some base-level understanding of how coding works. I did not, nor did I learn a single thing in that class. My R class, however, was much more likable. The Professor taught with the understanding that you had never touched a computer, and it was all the better for it. I even remember doing small projects with data sets in that class. Even still, I mostly got by in the class by copying what the professor was doing, and didn’t come out with much of an understanding of how any of it worked. In the end, I transferred from that school, declared myself a Mass Comm major, and hoped to never code again. But here I am, in this class, having to use R again. Data wrangling felt like being in that class again, and even though I felt I didn’t retain much from it, going through the assignment this week, I feel like those experiences have helped and will continue to help me.**
+
+
+---
+
+**Tags:** #journal #week11
+
+---

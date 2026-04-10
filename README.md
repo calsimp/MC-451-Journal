@@ -204,7 +204,7 @@ Earlier in the semester, I was playing around with a topic relating to what I wa
 # Week 11: Previous Experience with R
 
 
-**Date:** 3/27/2026
+**Date:** 4/9/2026
 **Phase:** Journalist
 **Approach Used:** The Connector
 

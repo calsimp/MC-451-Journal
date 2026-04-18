@@ -217,3 +217,19 @@ Earlier in the semester, I was playing around with a topic relating to what I wa
 **Tags:** #journal #week11
 
 ---
+# Week 12: Aesthetics of ggplot
+
+
+**Date:** 4/17/2026
+**Phase:** Journalist
+**Approach Used:** The Connector
+
+
+**A thing I really enjoy about rendering graphs and tables with ggplot is just how nice they look, automatically. Every time I’ve created something with code, it’s always looked ugly, very function over form. When I was in web design last semester, this was especially the case. It seemed like people were working harder, and doing more, just to end up with an uglier end-product. I leaned into it with my website design; I wanted it to look very “90s GeoCities” style. But there were many people in that class who weren’t going for that, but ended up with it anyway. So I was very pleasantly surprised when I ran the code to generate my first graph this week, and it was aesthetically pleasing. Even without looking too much into the themes, which I will be excited to mess around with for my final project. Generally, working with ggplot in R was very intuitive, and I had zero problems with the assignment, which is rare for me in this class. I’ve said it before, but when I entered this class, I had almost zero clue what was going on, but it’s been fun to slowly but surely build the full picture in my mind. Even just before these past few weeks, I was incredibly unsure of my future in this class; I was specifically worried about R, and visualizing my data. I expected it to be a long and tedious endeavour, but that really isn’t the case. All in all, I’m feeling confident in these final few weeks of class.**
+
+
+---
+
+**Tags:** #journal #week12
+
+---

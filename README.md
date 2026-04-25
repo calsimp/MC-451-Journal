@@ -233,3 +233,19 @@ Earlier in the semester, I was playing around with a topic relating to what I wa
 **Tags:** #journal #week12
 
 ---
+
+# Week 13: Null Hypothesis and the Middle School Science Fair
+
+**Date:** 4/24/2026
+**Phase:** Journalist
+**Approach Used:** The Connector
+
+
+**The null hypothesis is something I am familiar with, but only in the past few years. Every year in middle school, my class had to participate in the science fair. Maybe it was a failure of the public education system, but the way a hypothesis was explained to me, it was just the alternative hypothesis. “I think X will happen.” I’d do these experiments every year, and they’d all be basic, done-to-death science fair experiments where you’d know the answer before you’d start. Very often, the data we got didn’t match what should’ve happened, so my family and I would just fudge the numbers, to make sure our result matched the hypothesis. 
+It wasn’t until my Gen-ed science class about 2 years ago where I found out this was wrong. That typically, when scientists are conducting research, they start with the assumption that nothing will happen. That x is not related to y. It is only by disproving It is only by disproving that assumption that you can actually claim something meaningful. That completely flipped how I thought about experiments. Instead of trying to “prove” that I was right from the start, the goal became to test whether there was actually enough evidence to reject the idea that nothing was going on at all.  
+Looking back, it’s kind of funny (and a little concerning) how comfortable I was with just adjusting numbers to fit what I expected. At the time, it didn’t even feel like cheating, it just felt like finishing the assignment the “right” way. But now I understand that those unexpected results were probably the most important part.
+
+
+---
+
+**Tags:** #journal #week13
